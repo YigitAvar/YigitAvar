@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yiğit Avar</h1>
-<h3 align="center">4rd Year Computer Engineering Student at Kadir Has University, İstanbul, Turkey</h3>
+<h3 align="center">Computer Engineering graduate with hands-on experience in enterprise IT infrastructure, , İstanbul, Turkey</h3>
 
 <p align="center">
   Passionate about solving problems with code and continuously learning new technologies.
