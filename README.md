@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Yiğit Avar</h1>
 
 <h3 align="center">
@@ -138,4 +138,3 @@ Desktop application developed for application logging, debugging, and system mon
 <p align="center">
   Open to opportunities in Enterprise IT, IT Infrastructure, System Support, Networking, Cybersecurity, and Backend Development.
 </p>
-```
