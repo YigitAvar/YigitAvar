@@ -117,21 +117,6 @@ Desktop application developed for application logging, debugging, and system mon
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YigitAvar&show_icons=true&hide_border=true&theme=transparent"
-    alt="Yiğit Avar GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitAvar&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
 
 ---
 
